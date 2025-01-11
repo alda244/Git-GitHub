@@ -60,6 +60,3 @@ Author: **Alicia Pereira**
 - **`git push origin main`**
 - **`git branch <branch_name>`**
 - **`git checkout <branch_name>`**
-
-
-__no quiero este cambio__
