@@ -60,3 +60,6 @@ Author: **Alicia Pereira**
 - **`git push origin main`**
 - **`git branch <branch_name>`**
 - **`git checkout <branch_name>`**
+- **`git merge <name branch>`**
+- **`git log`**
+- **`git revert <commit>`**
